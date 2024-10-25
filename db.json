@@ -1,0 +1,64 @@
+{
+  "favoriteRecipes": [
+    {
+      "recipeName": "Spaghetti Carbonara",
+      "cuisine": "Italian",
+      "ingredients": "Spaghetti, eggs, pancetta, Parmesan, black pepper",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "recipeName": "Chicken Tikka Masala",
+      "cuisine": "Indian",
+      "ingredients": "Chicken, yogurt, tomatoes, cream, spices",
+      "cookingTime": "40 minutes"
+    },
+    {
+      "recipeName": "Beef Tacos",
+      "cuisine": "Mexican",
+      "ingredients": "Ground beef, taco shells, lettuce, cheese, salsa",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "recipeName": "Vegetable Stir-Fry",
+      "cuisine": "Asian",
+      "ingredients": "Broccoli, bell peppers, carrots, soy sauce, garlic",
+      "cookingTime": "25 minutes"
+    },
+    {
+      "recipeName": "Chocolate Chip Cookies",
+      "cuisine": "American",
+      "ingredients": "Flour, sugar, butter, eggs, chocolate chips",
+      "cookingTime": "15 minutes"
+    },
+    {
+      "recipeName": "Caprese Salad",
+      "cuisine": "Italian",
+      "ingredients": "Tomatoes, mozzarella, basil, olive oil, balsamic vinegar",
+      "cookingTime": "10 minutes"
+    },
+    {
+      "recipeName": "Grilled Salmon",
+      "cuisine": "Seafood",
+      "ingredients": "Salmon fillets, lemon, dill, olive oil",
+      "cookingTime": "15 minutes"
+    },
+    {
+      "recipeName": "Quiche Lorraine",
+      "cuisine": "French",
+      "ingredients": "Eggs, cream, cheese, bacon, pastry crust",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "recipeName": "Pancakes",
+      "cuisine": "American",
+      "ingredients": "Flour, milk, eggs, baking powder, syrup",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "recipeName": "Ratatouille",
+      "cuisine": "French",
+      "ingredients": "Eggplant, zucchini, bell peppers, tomatoes, herbs",
+      "cookingTime": "60 minutes"
+    }
+  ]
+}

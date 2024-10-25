@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to favorite recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Recipe</h1>
+<section class="container">
+    <input type="text" id="name-input" placeholder="recipe name"/>
+    <input type="text" id="cuisine-input" placeholder="cuisine">
+    <input type="text" id="ingredients-input" placeholder="ingredients">
+    <input type="text" id="cookingTime-input" placeholder="cookingTime">
+    <button id="recipe-submit">Submit Recipe</button>
+</section>
+<section class="container">
+    <h2>Favorite Recipe List</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Recipe Name</th>
+                <th>Cuisine</th>
+                <th>Ingredients</th>
+                <th>cooking Time</th>
+            </tr>
+        </thead>
+        <tbody id="recipes">
+        </tbody>
+    </table>
+</section>
+<script src="app.js"></script>
+</body>
+</html>
